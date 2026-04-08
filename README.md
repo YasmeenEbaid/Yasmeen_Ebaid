@@ -71,11 +71,11 @@
 </details>
 
 <details>
-<summary><b>🤖 AI Obesity Prediction (Machine Learning)</b></summary>
+<summary><b>🤖 AI Obesity Prediction (Ai)</b></summary>
 <p>Built a model to predict obesity levels using data preprocessing, feature analysis, and classification models.</p>
 </details>
 
 <details>
-<summary><b>🏋️ Gym Management System (Java + GUI)</b></summary>
-<p>Developed a system using Data Structures in Java to handle memberships and scheduling with a GUI for interaction.</p>
+<summary><b>🏋️ Gym Management System ((C++) + GUI)</b></summary>
+<p>Developed a system using Data Structures in C++ to handle memberships and scheduling with a GUI for interaction.</p>
 </details>
