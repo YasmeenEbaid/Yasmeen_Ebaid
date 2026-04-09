@@ -51,7 +51,7 @@
 </details>
 
 <details>
-<summary><b>⌚ Watch Management System (Java & OOP)</b></summary>
+<summary><b> Watch it Management System (Java & OOP)</b></summary>
 <p>Built a desktop application using Java and OOP principles with a JavaFX interface for product and user management.</p>
 </details>
 
