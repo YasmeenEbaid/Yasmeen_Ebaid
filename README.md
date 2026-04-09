@@ -3,9 +3,9 @@
   <tr>
     <td valign="middle" width="50%">
       <h1>Hey there 👋, I'm Yasmeen Mohamed</h1>
-      <p><b>Aspiring Full Stack Developer & Data Analyst</b> 🚀</p>
+      <p><b>Aspiring Full Stack Developer & Data Analysis</b> 🚀</p>
       <p>I am a Computer Science student at <b>Ain Shams University</b> (2024-2027).</p>
-      <p>I have a solid foundation in software development, problem-solving, and web technologies. Currently seeking a Full Stack Internship to apply my skills.</p>
+      <p>I have a solid foundation in software development, problem-solving, and web technologies. Currently seeking a Full Stack,Data Analysis Internship to apply my skills.</p>
       <br/>
       <a href="https://www.linkedin.com/in/yasmeen-ebaid-950272213">
         <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
