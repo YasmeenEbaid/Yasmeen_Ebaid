@@ -44,15 +44,20 @@
 ---
 
 ### 📂 Projects:
-
 <details>
 <summary><b>🛍️ Clothing Shop E-Commerce (ITI Training)</b></summary>
-<p>Developed a responsive front-end using HTML, CSS, and JavaScript. Implemented product listing and improved UI/UX in a team environment.</p>
+<p>
+Developed a responsive front-end using HTML, CSS, and JavaScript. Implemented product listing and improved UI/UX in a team environment.<br/>
+🔗 <a href="https://github.com/YasmeenEbaid/ITI_Clothing-Shop-Website">View Project</a>
+</p>
 </details>
 
 <details>
-<summary><b> Watch it Management System (Java & OOP)</b></summary>
-<p>Built a desktop application using Java and OOP principles with a JavaFX interface for product and user management.</p>
+<summary><b>🎬 WatchIt Management System (Java & OOP)</b></summary>
+<p>
+Built a desktop application using Java and OOP principles with a JavaFX interface for product and user management.<br/>
+🔗 <a href="https://github.com/YasmeenEbaid/WatchIt---OOP-System">View Project</a>
+</p>
 </details>
 
 <details>
@@ -62,12 +67,18 @@
 
 <details>
 <summary><b>💻 Operating System Project</b></summary>
-<p>Implemented shared memory communication and kernel heap management to strengthen OS-level programming skills.</p>
+<p>
+Implemented shared memory communication and kernel heap management to strengthen OS-level programming skills.<br/>
+🔗 <a href="https://github.com/YasmeenEbaid/BetterThanWindows-OS">View Project on GitHub</a>
+</p>
 </details>
 
 <details>
-<summary><b>🏠 3D Graphics House & Animation (OpenGL)</b></summary>
-<p>Created a 3D house model with rendering logic and animation using OpenGL.</p>
+<summary><b>🏠 3D Graphics House & Animation (Blender / OpenGL)</b></summary>
+<p>
+Created a 3D house model with modeling, lighting, camera movement, and animation using Blender.<br/>
+🔗 <a href="https://github.com/YasmeenEbaid/3D-House-Scene-Blender">View Project</a>
+</p>
 </details>
 
 <details>
@@ -76,6 +87,9 @@
 </details>
 
 <details>
-<summary><b>🏋️ Gym Management System ((C++) + GUI)</b></summary>
-<p>Developed a system using Data Structures in C++ to handle memberships and scheduling with a GUI for interaction.</p>
+<summary><b>🏋️ Gym & Padel Management System</b></summary>
+<p>
+A Gym and Padel Management System that handles memberships, scheduling, and court reservations efficiently.<br/>
+🔗 <a href="https://github.com/YasmeenEbaid/GymAndPadel_management_system">View Project on GitHub</a>
+</p>
 </details>
