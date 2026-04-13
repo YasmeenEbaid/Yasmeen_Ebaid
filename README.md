@@ -48,7 +48,7 @@
 <summary><b>🛍️ Clothing Shop E-Commerce (ITI Training)</b></summary>
 <p>
 Developed a responsive front-end using HTML, CSS, and JavaScript. Implemented product listing and improved UI/UX in a team environment.<br/>
-🔗 <a href="https://github.com/YasmeenEbaid/ITI_Clothing-Shop-Website">View Project</a>
+🔗 <a href="https://github.com/YasmeenEbaid/ITI_Clothing-Shop-Website">View Project on GitHub</a>
 </p>
 </details>
 
@@ -56,7 +56,7 @@ Developed a responsive front-end using HTML, CSS, and JavaScript. Implemented pr
 <summary><b>🎬 WatchIt Management System (Java & OOP)</b></summary>
 <p>
 Built a desktop application using Java and OOP principles with a JavaFX interface for product and user management.<br/>
-🔗 <a href="https://github.com/YasmeenEbaid/WatchIt---OOP-System">View Project</a>
+🔗 <a href="https://github.com/YasmeenEbaid/WatchIt---OOP-System">View Project on GitHub</a>
 </p>
 </details>
 
@@ -77,7 +77,7 @@ Implemented shared memory communication and kernel heap management to strengthen
 <summary><b>🏠 3D Graphics House & Animation (Blender / OpenGL)</b></summary>
 <p>
 Created a 3D house model with modeling, lighting, camera movement, and animation using Blender.<br/>
-🔗 <a href="https://github.com/YasmeenEbaid/3D-House-Scene-Blender">View Project</a>
+🔗 <a href="https://github.com/YasmeenEbaid/3D-House-Scene-Blender">View Project on GitHub</a>
 </p>
 </details>
 
